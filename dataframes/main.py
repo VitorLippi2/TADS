@@ -14,3 +14,6 @@ nba = nba[["College", "Salary"]]
 nba = nba.groupby(["College"]).mean("Salary")
 
 print(nba)
+
+# só apaga se tiver tudo vazio
+print(nba.dropna(how="all"))
