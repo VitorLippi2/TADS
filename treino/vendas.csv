@@ -1,0 +1,601 @@
+ID_Pedido,Data,Produto,Categoria,Quantidade,Preco_Unitario,Cliente_ID
+1001,2023-02-22,Smartphone X,Eletrônicos,3,497,C009
+1002,2023-02-17,Perfume Importado,Cosméticos,5,214,C002
+1003,2023-04-12,Calça Jeans,Vestuário,5,303,C036
+1004,2023-01-04,Batom Matte,Cosméticos,2,227,C018
+1005,2023-04-21,Meia Esportiva,Vestuário,4,173,C010
+1006,2023-06-26,Chocolate Premium,Alimentos,1,193,C023
+1007,2023-03-05,Shampoo Antiqueda,Cosméticos,1,366,C035
+1008,2023-11-13,Aprendendo Python,Livros,5,150,C041
+1009,2023-12-05,Vinho Tinto,Alimentos,2,354,C003
+1010,2023-07-14,Tênis Esportivo,Vestuário,1,428,C007
+1011,2023-04-18,Queijo Artesanal,Alimentos,3,86,C023
+1012,2023-10-01,Mel Orgânico,Alimentos,1,307,C011
+1013,2023-12-19,Calça Jeans,Vestuário,4,193,C041
+1014,2023-01-29,Creme Facial,Cosméticos,3,422,C050
+1015,2023-04-19,Camiseta Básica,Vestuário,3,204,C005
+1016,2023-07-22,Desodorante,Cosméticos,3,110,C032
+1017,2023-10-15,Data Science Essentials,Livros,3,74,C048
+1018,2023-07-24,Shampoo Antiqueda,Cosméticos,5,217,C038
+1019,2023-01-25,Café Especial,Alimentos,2,257,C006
+1020,2023-11-02,Notebook Pro,Eletrônicos,2,1586,C028
+1021,2023-09-28,Tablet Lite,Eletrônicos,4,1196,C030
+1022,2023-12-16,Vinho Tinto,Alimentos,1,342,C008
+1023,2023-03-22,Shampoo Antiqueda,Cosméticos,3,60,C028
+1024,2023-04-02,Aprendendo Python,Livros,3,486,C049
+1025,2023-11-08,Perfume Importado,Cosméticos,3,422,C033
+1026,2023-09-29,Calça Jeans,Vestuário,3,382,C035
+1027,2023-07-05,Mouse Gamer,Eletrônicos,3,982,C008
+1028,2023-02-10,Café Especial,Alimentos,1,124,C037
+1029,2023-09-30,Smartwatch,Eletrônicos,4,1634,C049
+1030,2023-05-16,Calça Jeans,Vestuário,4,474,C011
+1031,2023-12-20,Protetor Solar,Cosméticos,4,482,C035
+1032,2023-11-29,Meia Esportiva,Vestuário,3,202,C043
+1033,2023-04-26,Queijo Artesanal,Alimentos,5,228,C016
+1034,2023-10-29,Fone Bluetooth,Eletrônicos,1,1181,C015
+1035,2023-04-28,Camiseta Básica,Vestuário,1,355,C004
+1036,2023-05-23,Smartphone X,Eletrônicos,3,151,C016
+1037,2023-10-23,Data Science Essentials,Livros,5,70,C037
+1038,2023-02-18,Data Science Essentials,Livros,4,405,C013
+1039,2023-08-28,Smartwatch,Eletrônicos,4,715,C027
+1040,2023-06-23,Smartwatch,Eletrônicos,1,131,C047
+1041,2023-03-13,Notebook Pro,Eletrônicos,2,389,C029
+1042,2023-08-15,Data Science Essentials,Livros,3,234,C005
+1043,2023-01-08,Perfume Importado,Cosméticos,1,328,C035
+1044,2023-04-20,Notebook Pro,Eletrônicos,2,819,C031
+1045,2023-05-16,Aprendendo Python,Livros,2,193,C025
+1046,2023-10-12,Ficção Científica,Livros,4,350,C047
+1047,2023-10-24,Data Science Essentials,Livros,2,152,C004
+1048,2023-09-02,Perfume Importado,Cosméticos,3,33,C038
+1049,2023-02-11,Protetor Solar,Cosméticos,2,33,C033
+1050,2023-07-26,Camiseta Básica,Vestuário,5,39,C016
+1051,2023-11-14,Mouse Gamer,Eletrônicos,2,1162,C003
+1052,2023-05-14,Tablet Lite,Eletrônicos,5,1135,C021
+1053,2023-03-09,Meia Esportiva,Vestuário,3,123,C026
+1054,2023-01-05,Queijo Artesanal,Alimentos,3,465,C005
+1055,2023-10-03,Romance Clássico,Livros,5,498,C005
+1056,2023-02-05,Vestido Elegante,Vestuário,3,71,C023
+1057,2023-12-27,Tênis Esportivo,Vestuário,3,83,C035
+1058,2023-06-03,Vinho Tinto,Alimentos,5,9,C036
+1059,2023-10-11,Notebook Pro,Eletrônicos,3,240,C007
+1060,2023-06-25,Tênis Esportivo,Vestuário,3,304,C046
+1061,2023-01-27,Meia Esportiva,Vestuário,3,255,C017
+1062,2023-01-02,Smartwatch,Eletrônicos,4,1660,C003
+1063,2023-10-10,Café Especial,Alimentos,3,85,C029
+1064,2023-03-18,Romance Clássico,Livros,1,60,C045
+1065,2023-08-09,Perfume Importado,Cosméticos,3,293,C010
+1066,2023-07-03,Camiseta Básica,Vestuário,3,186,C003
+1067,2023-10-14,Meia Esportiva,Vestuário,2,335,C023
+1068,2023-03-25,Romance Clássico,Livros,2,463,C016
+1069,2023-07-30,Jaqueta,Vestuário,1,94,C022
+1070,2023-07-15,Tênis Esportivo,Vestuário,2,395,C007
+1071,2023-06-29,Tablet Lite,Eletrônicos,2,407,C030
+1072,2023-07-24,Café Especial,Alimentos,2,17,C013
+1073,2023-06-29,Azeite Extra Virgem,Alimentos,1,484,C018
+1074,2023-03-01,Batom Matte,Cosméticos,5,169,C002
+1075,2023-01-20,Café Especial,Alimentos,5,481,C017
+1076,2023-08-12,Mouse Gamer,Eletrônicos,4,698,C021
+1077,2023-04-08,Protetor Solar,Cosméticos,1,196,C037
+1078,2023-12-18,Chocolate Premium,Alimentos,4,6,C035
+1079,2023-06-19,Tênis Esportivo,Vestuário,4,40,C043
+1080,2023-09-17,Shampoo Antiqueda,Cosméticos,1,361,C020
+1081,2023-06-01,Mel Orgânico,Alimentos,4,166,C045
+1082,2023-12-13,Creme Facial,Cosméticos,2,213,C025
+1083,2023-01-01,Vestido Elegante,Vestuário,5,154,C036
+1084,2023-11-07,Azeite Extra Virgem,Alimentos,2,218,C038
+1085,2023-09-19,Queijo Artesanal,Alimentos,4,224,C014
+1086,2023-09-21,Autoajuda,Livros,2,331,C019
+1087,2023-05-01,Shampoo Antiqueda,Cosméticos,1,410,C049
+1088,2023-05-06,Café Especial,Alimentos,2,78,C003
+1089,2023-10-22,Romance Clássico,Livros,1,230,C041
+1090,2023-03-17,Meia Esportiva,Vestuário,4,250,C016
+1091,2023-09-23,Smartphone X,Eletrônicos,4,445,C045
+1092,2023-08-22,Aprendendo Python,Livros,5,128,C008
+1093,2023-06-12,Jaqueta,Vestuário,5,494,C039
+1094,2023-08-17,Romance Clássico,Livros,5,216,C036
+1095,2023-05-07,Meia Esportiva,Vestuário,4,228,C049
+1096,2023-08-14,Vinho Tinto,Alimentos,4,315,C018
+1097,2023-06-13,Smartwatch,Eletrônicos,3,477,C022
+1098,2023-12-22,Perfume Importado,Cosméticos,2,80,C025
+1099,2023-06-19,Meia Esportiva,Vestuário,2,37,C027
+1100,2023-07-19,Batom Matte,Cosméticos,4,36,C027
+1101,2023-10-22,Desodorante,Cosméticos,1,429,C049
+1102,2023-07-19,Biografia,Livros,1,472,C020
+1103,2023-09-07,Romance Clássico,Livros,5,401,C015
+1104,2023-06-22,Tênis Esportivo,Vestuário,4,245,C025
+1105,2023-11-15,Autoajuda,Livros,2,421,C009
+1106,2023-01-14,Perfume Importado,Cosméticos,4,298,C043
+1107,2023-04-04,Smartwatch,Eletrônicos,4,280,C030
+1108,2023-06-17,Fone Bluetooth,Eletrônicos,4,661,C030
+1109,2023-05-10,Queijo Artesanal,Alimentos,3,377,C027
+1110,2023-06-29,Tablet Lite,Eletrônicos,1,1501,C004
+1111,2023-01-21,Meia Esportiva,Vestuário,1,392,C042
+1112,2023-03-20,Notebook Pro,Eletrônicos,2,1680,C040
+1113,2023-04-22,Calça Jeans,Vestuário,4,336,C037
+1114,2023-11-07,Autoajuda,Livros,3,385,C011
+1115,2023-06-09,Desodorante,Cosméticos,1,390,C011
+1116,2023-12-13,Mouse Gamer,Eletrônicos,1,1858,C037
+1117,2023-11-18,Biografia,Livros,2,43,C045
+1118,2023-03-03,Camiseta Básica,Vestuário,3,426,C039
+1119,2023-07-09,Perfume Importado,Cosméticos,3,269,C043
+1120,2023-09-08,Mouse Gamer,Eletrônicos,3,35,C027
+1121,2023-12-29,Tablet Lite,Eletrônicos,3,1275,C030
+1122,2023-05-19,Jaqueta,Vestuário,2,368,C042
+1123,2023-10-31,Protetor Solar,Cosméticos,4,235,C047
+1124,2023-05-23,Azeite Extra Virgem,Alimentos,2,416,C006
+1125,2023-07-14,Data Science Essentials,Livros,4,287,C043
+1126,2023-09-07,Chocolate Premium,Alimentos,4,426,C012
+1127,2023-12-26,Tênis Esportivo,Vestuário,3,173,C039
+1128,2023-02-13,Vinho Tinto,Alimentos,1,261,C013
+1129,2023-05-04,Meia Esportiva,Vestuário,4,247,C049
+1130,2023-02-17,Autoajuda,Livros,4,227,C002
+1131,2023-12-06,Café Especial,Alimentos,4,347,C020
+1132,2023-08-06,Shampoo Antiqueda,Cosméticos,4,279,C023
+1133,2023-06-06,Shampoo Antiqueda,Cosméticos,3,353,C018
+1134,2023-03-03,Café Especial,Alimentos,1,362,C021
+1135,2023-09-05,Desodorante,Cosméticos,2,100,C048
+1136,2023-11-02,Mel Orgânico,Alimentos,5,488,C034
+1137,2023-04-02,Chocolate Premium,Alimentos,2,152,C024
+1138,2023-01-28,Chocolate Premium,Alimentos,5,68,C003
+1139,2023-09-09,Shampoo Antiqueda,Cosméticos,2,321,C049
+1140,2023-08-14,Smartphone X,Eletrônicos,5,576,C031
+1141,2023-02-28,Café Especial,Alimentos,1,130,C031
+1142,2023-12-18,Tablet Lite,Eletrônicos,4,157,C041
+1143,2023-02-13,Notebook Pro,Eletrônicos,2,1624,C020
+1144,2023-11-02,Camiseta Básica,Vestuário,5,383,C039
+1145,2023-06-02,Creme Facial,Cosméticos,5,193,C029
+1146,2023-11-09,Batom Matte,Cosméticos,3,286,C004
+1147,2023-03-22,Notebook Pro,Eletrônicos,2,537,C006
+1148,2023-07-29,Calça Jeans,Vestuário,5,42,C001
+1149,2023-04-29,Autoajuda,Livros,5,238,C003
+1150,2023-02-06,Mel Orgânico,Alimentos,3,353,C030
+1151,2023-08-06,Tênis Esportivo,Vestuário,5,332,C013
+1152,2023-03-14,Mouse Gamer,Eletrônicos,2,1299,C018
+1153,2023-10-19,Smartphone X,Eletrônicos,2,1587,C039
+1154,2023-12-25,Queijo Artesanal,Alimentos,1,237,C020
+1155,2023-02-11,Ficção Científica,Livros,5,272,C029
+1156,2023-05-09,Perfume Importado,Cosméticos,4,369,C039
+1157,2023-10-28,Smartphone X,Eletrônicos,2,1924,C037
+1158,2023-03-31,Smartwatch,Eletrônicos,3,1157,C049
+1159,2023-10-27,Romance Clássico,Livros,4,458,C012
+1160,2023-06-28,Autoajuda,Livros,4,485,C031
+1161,2023-06-18,Ficção Científica,Livros,3,337,C011
+1162,2023-10-09,Autoajuda,Livros,4,148,C026
+1163,2023-03-01,Tablet Lite,Eletrônicos,1,636,C021
+1164,2023-08-25,Romance Clássico,Livros,1,331,C035
+1165,2023-09-13,Aprendendo Python,Livros,2,262,C040
+1166,2023-05-28,Aprendendo Python,Livros,2,137,C009
+1167,2023-11-08,Autoajuda,Livros,4,65,C041
+1168,2023-10-10,Meia Esportiva,Vestuário,2,159,C001
+1169,2023-08-25,Aprendendo Python,Livros,2,496,C008
+1170,2023-05-30,Smartwatch,Eletrônicos,2,1002,C046
+1171,2023-08-30,Desodorante,Cosméticos,3,211,C031
+1172,2023-11-03,Jaqueta,Vestuário,5,77,C013
+1173,2023-08-01,Desodorante,Cosméticos,2,433,C018
+1174,2023-06-02,Vinho Tinto,Alimentos,3,411,C019
+1175,2023-10-03,Protetor Solar,Cosméticos,4,433,C029
+1176,2023-07-13,Ficção Científica,Livros,3,278,C035
+1177,2023-10-20,Ficção Científica,Livros,2,490,C016
+1178,2023-08-31,Data Science Essentials,Livros,4,27,C048
+1179,2023-03-06,Biografia,Livros,2,250,C003
+1180,2023-02-21,Protetor Solar,Cosméticos,3,436,C029
+1181,2023-12-02,Batom Matte,Cosméticos,1,363,C027
+1182,2023-06-23,Camiseta Básica,Vestuário,4,392,C017
+1183,2023-12-12,Desodorante,Cosméticos,4,327,C022
+1184,2023-09-07,Batom Matte,Cosméticos,3,315,C049
+1185,2023-12-17,Perfume Importado,Cosméticos,5,39,C041
+1186,2023-11-21,Café Especial,Alimentos,1,220,C007
+1187,2023-01-24,Tablet Lite,Eletrônicos,2,1391,C002
+1188,2023-03-16,Chocolate Premium,Alimentos,3,182,C028
+1189,2023-03-29,Vestido Elegante,Vestuário,4,285,C012
+1190,2023-12-16,Camiseta Básica,Vestuário,5,436,C040
+1191,2023-11-23,Jaqueta,Vestuário,5,76,C030
+1192,2023-05-28,Queijo Artesanal,Alimentos,3,335,C030
+1193,2023-10-28,Creme Facial,Cosméticos,1,224,C023
+1194,2023-06-04,Mel Orgânico,Alimentos,4,347,C030
+1195,2023-10-20,Jaqueta,Vestuário,4,58,C025
+1196,2023-01-12,Vinho Tinto,Alimentos,3,496,C019
+1197,2023-01-26,Ficção Científica,Livros,1,285,C044
+1198,2023-04-28,Desodorante,Cosméticos,4,417,C019
+1199,2023-05-09,Shampoo Antiqueda,Cosméticos,2,320,C040
+1200,2023-01-21,Meia Esportiva,Vestuário,1,452,C042
+1201,2023-03-09,Queijo Artesanal,Alimentos,1,292,C047
+1202,2023-04-13,Fone Bluetooth,Eletrônicos,3,1497,C012
+1203,2023-03-26,Vestido Elegante,Vestuário,3,268,C018
+1204,2023-02-28,Queijo Artesanal,Alimentos,3,375,C022
+1205,2023-12-13,Aprendendo Python,Livros,2,378,C015
+1206,2023-01-08,Romance Clássico,Livros,3,50,C026
+1207,2023-12-11,Vinho Tinto,Alimentos,1,230,C044
+1208,2023-02-25,Vinho Tinto,Alimentos,4,412,C024
+1209,2023-06-17,Jaqueta,Vestuário,1,312,C036
+1210,2023-12-25,Creme Facial,Cosméticos,1,320,C030
+1211,2023-01-20,Mel Orgânico,Alimentos,4,63,C003
+1212,2023-03-11,Queijo Artesanal,Alimentos,1,53,C035
+1213,2023-12-23,Biografia,Livros,3,337,C048
+1214,2023-08-01,Batom Matte,Cosméticos,5,372,C010
+1215,2023-01-17,Tablet Lite,Eletrônicos,5,822,C018
+1216,2023-07-05,Café Especial,Alimentos,4,225,C016
+1217,2023-07-03,Smartwatch,Eletrônicos,3,1093,C042
+1218,2023-08-21,Tablet Lite,Eletrônicos,3,388,C008
+1219,2023-01-11,Smartwatch,Eletrônicos,2,1287,C039
+1220,2023-04-16,Fone Bluetooth,Eletrônicos,2,1978,C037
+1221,2023-06-18,Mouse Gamer,Eletrônicos,2,1177,C015
+1222,2023-03-08,Vestido Elegante,Vestuário,1,142,C010
+1223,2023-03-09,Shampoo Antiqueda,Cosméticos,2,59,C002
+1224,2023-03-31,Fone Bluetooth,Eletrônicos,2,1182,C002
+1225,2023-02-28,Chocolate Premium,Alimentos,2,372,C034
+1226,2023-10-31,Tablet Lite,Eletrônicos,4,1558,C033
+1227,2023-01-23,Tablet Lite,Eletrônicos,5,451,C040
+1228,2023-02-01,Shampoo Antiqueda,Cosméticos,4,323,C002
+1229,2023-12-31,Biografia,Livros,4,345,C032
+1230,2023-02-03,Aprendendo Python,Livros,1,164,C010
+1231,2023-12-31,Tênis Esportivo,Vestuário,5,318,C036
+1232,2023-09-16,Queijo Artesanal,Alimentos,5,268,C030
+1233,2023-12-02,Batom Matte,Cosméticos,1,398,C008
+1234,2023-07-31,Desodorante,Cosméticos,2,218,C015
+1235,2023-06-10,Queijo Artesanal,Alimentos,4,211,C007
+1236,2023-12-18,Ficção Científica,Livros,3,190,C010
+1237,2023-08-10,Aprendendo Python,Livros,1,417,C006
+1238,2023-01-31,Smartwatch,Eletrônicos,3,1625,C036
+1239,2023-07-30,Protetor Solar,Cosméticos,5,168,C008
+1240,2023-01-27,Mel Orgânico,Alimentos,4,435,C047
+1241,2023-09-17,Vinho Tinto,Alimentos,3,179,C037
+1242,2023-06-29,Calça Jeans,Vestuário,4,116,C007
+1243,2023-04-26,Shampoo Antiqueda,Cosméticos,1,382,C037
+1244,2023-10-13,Romance Clássico,Livros,5,309,C042
+1245,2023-12-26,Mouse Gamer,Eletrônicos,3,68,C018
+1246,2023-10-17,Azeite Extra Virgem,Alimentos,3,8,C010
+1247,2023-02-16,Aprendendo Python,Livros,2,372,C002
+1248,2023-03-22,Creme Facial,Cosméticos,4,213,C022
+1249,2023-11-02,Azeite Extra Virgem,Alimentos,3,390,C037
+1250,2023-01-26,Smartphone X,Eletrônicos,2,323,C040
+1251,2023-11-07,Fone Bluetooth,Eletrônicos,4,1327,C032
+1252,2023-02-28,Biografia,Livros,3,112,C033
+1253,2023-10-31,Queijo Artesanal,Alimentos,1,145,C044
+1254,2023-11-03,Romance Clássico,Livros,3,27,C026
+1255,2023-03-12,Smartphone X,Eletrônicos,2,610,C014
+1256,2023-08-09,Azeite Extra Virgem,Alimentos,3,64,C032
+1257,2023-09-14,Calça Jeans,Vestuário,4,269,C015
+1258,2023-01-22,Desodorante,Cosméticos,3,41,C048
+1259,2023-10-22,Aprendendo Python,Livros,4,461,C021
+1260,2023-05-29,Romance Clássico,Livros,4,356,C027
+1261,2023-11-13,Tablet Lite,Eletrônicos,1,1933,C011
+1262,2023-05-05,Autoajuda,Livros,3,49,C007
+1263,2023-06-08,Romance Clássico,Livros,4,264,C026
+1264,2023-09-19,Café Especial,Alimentos,3,391,C005
+1265,2023-06-28,Mouse Gamer,Eletrônicos,5,396,C050
+1266,2023-05-12,Mel Orgânico,Alimentos,2,122,C010
+1267,2023-12-02,Calça Jeans,Vestuário,5,81,C049
+1268,2023-10-24,Notebook Pro,Eletrônicos,4,933,C037
+1269,2023-06-15,Autoajuda,Livros,5,323,C040
+1270,2023-11-20,Café Especial,Alimentos,4,39,C029
+1271,2023-02-07,Azeite Extra Virgem,Alimentos,5,33,C033
+1272,2023-05-27,Queijo Artesanal,Alimentos,4,24,C024
+1273,2023-07-16,Smartwatch,Eletrônicos,1,1234,C033
+1274,2023-01-22,Romance Clássico,Livros,5,477,C048
+1275,2023-09-14,Romance Clássico,Livros,2,164,C031
+1276,2023-02-13,Camiseta Básica,Vestuário,4,56,C022
+1277,2023-08-13,Desodorante,Cosméticos,2,24,C046
+1278,2023-07-10,Romance Clássico,Livros,5,307,C024
+1279,2023-11-03,Queijo Artesanal,Alimentos,4,388,C044
+1280,2023-10-13,Smartwatch,Eletrônicos,3,141,C007
+1281,2023-11-05,Ficção Científica,Livros,3,363,C043
+1282,2023-06-29,Tênis Esportivo,Vestuário,1,293,C010
+1283,2023-02-13,Mel Orgânico,Alimentos,4,69,C046
+1284,2023-03-07,Vinho Tinto,Alimentos,4,324,C022
+1285,2023-07-05,Perfume Importado,Cosméticos,4,257,C002
+1286,2023-09-06,Café Especial,Alimentos,2,174,C050
+1287,2023-02-21,Calça Jeans,Vestuário,2,82,C019
+1288,2023-11-13,Protetor Solar,Cosméticos,5,24,C022
+1289,2023-12-21,Vestido Elegante,Vestuário,4,81,C012
+1290,2023-12-13,Creme Facial,Cosméticos,4,27,C024
+1291,2023-08-18,Jaqueta,Vestuário,5,146,C048
+1292,2023-04-10,Vestido Elegante,Vestuário,2,158,C031
+1293,2023-05-25,Mel Orgânico,Alimentos,5,492,C030
+1294,2023-04-13,Romance Clássico,Livros,5,212,C011
+1295,2023-07-10,Creme Facial,Cosméticos,3,31,C031
+1296,2023-02-12,Perfume Importado,Cosméticos,5,426,C019
+1297,2023-08-12,Tênis Esportivo,Vestuário,4,453,C010
+1298,2023-08-01,Notebook Pro,Eletrônicos,4,1770,C002
+1299,2023-02-11,Tablet Lite,Eletrônicos,5,754,C025
+1300,2023-11-29,Café Especial,Alimentos,1,163,C007
+1301,2023-12-23,Café Especial,Alimentos,2,24,C031
+1302,2023-02-10,Meia Esportiva,Vestuário,4,227,C001
+1303,2023-11-08,Fone Bluetooth,Eletrônicos,2,1672,C036
+1304,2023-06-04,Batom Matte,Cosméticos,1,389,C016
+1305,2023-08-23,Smartphone X,Eletrônicos,2,845,C040
+1306,2023-11-20,Smartphone X,Eletrônicos,4,1198,C002
+1307,2023-08-08,Protetor Solar,Cosméticos,2,361,C019
+1308,2023-04-06,Mouse Gamer,Eletrônicos,3,489,C027
+1309,2023-10-06,Mouse Gamer,Eletrônicos,3,145,C034
+1310,2023-01-23,Protetor Solar,Cosméticos,5,15,C031
+1311,2023-02-04,Ficção Científica,Livros,3,375,C023
+1312,2023-06-20,Café Especial,Alimentos,1,387,C048
+1313,2023-03-31,Camiseta Básica,Vestuário,3,275,C042
+1314,2023-02-02,Autoajuda,Livros,4,318,C009
+1315,2023-01-22,Aprendendo Python,Livros,3,105,C013
+1316,2023-08-31,Azeite Extra Virgem,Alimentos,5,202,C035
+1317,2023-01-25,Chocolate Premium,Alimentos,2,147,C050
+1318,2023-07-24,Azeite Extra Virgem,Alimentos,1,401,C028
+1319,2023-12-21,Biografia,Livros,3,487,C032
+1320,2023-08-06,Ficção Científica,Livros,5,137,C006
+1321,2023-10-07,Tablet Lite,Eletrônicos,5,1990,C012
+1322,2023-06-01,Azeite Extra Virgem,Alimentos,1,45,C043
+1323,2023-12-20,Queijo Artesanal,Alimentos,5,360,C011
+1324,2023-11-11,Ficção Científica,Livros,4,26,C023
+1325,2023-07-27,Ficção Científica,Livros,1,42,C041
+1326,2023-11-08,Vinho Tinto,Alimentos,2,477,C010
+1327,2023-11-27,Aprendendo Python,Livros,2,38,C050
+1328,2023-11-06,Azeite Extra Virgem,Alimentos,4,475,C003
+1329,2023-08-16,Meia Esportiva,Vestuário,4,475,C024
+1330,2023-06-10,Mouse Gamer,Eletrônicos,2,1064,C026
+1331,2023-09-13,Café Especial,Alimentos,1,18,C012
+1332,2023-05-14,Batom Matte,Cosméticos,5,63,C050
+1333,2023-04-13,Data Science Essentials,Livros,5,146,C032
+1334,2023-08-16,Notebook Pro,Eletrônicos,1,910,C046
+1335,2023-02-03,Smartwatch,Eletrônicos,3,1339,C046
+1336,2023-12-31,Protetor Solar,Cosméticos,3,446,C011
+1337,2023-03-13,Tênis Esportivo,Vestuário,5,116,C013
+1338,2023-07-08,Jaqueta,Vestuário,1,184,C037
+1339,2023-02-03,Romance Clássico,Livros,2,308,C006
+1340,2023-07-29,Queijo Artesanal,Alimentos,4,265,C050
+1341,2023-02-07,Perfume Importado,Cosméticos,2,486,C042
+1342,2023-10-10,Biografia,Livros,5,176,C050
+1343,2023-03-05,Creme Facial,Cosméticos,2,219,C004
+1344,2023-12-30,Creme Facial,Cosméticos,3,87,C021
+1345,2023-05-09,Tênis Esportivo,Vestuário,5,448,C006
+1346,2023-06-05,Meia Esportiva,Vestuário,5,141,C041
+1347,2023-10-31,Protetor Solar,Cosméticos,1,254,C011
+1348,2023-11-06,Creme Facial,Cosméticos,2,331,C047
+1349,2023-02-11,Vinho Tinto,Alimentos,1,413,C002
+1350,2023-10-20,Smartwatch,Eletrônicos,5,537,C014
+1351,2023-10-07,Romance Clássico,Livros,1,252,C041
+1352,2023-07-27,Mel Orgânico,Alimentos,3,244,C044
+1353,2023-08-14,Queijo Artesanal,Alimentos,1,346,C011
+1354,2023-03-15,Biografia,Livros,4,106,C039
+1355,2023-07-24,Mel Orgânico,Alimentos,3,368,C023
+1356,2023-05-04,Tênis Esportivo,Vestuário,5,283,C021
+1357,2023-02-19,Aprendendo Python,Livros,3,228,C010
+1358,2023-05-08,Fone Bluetooth,Eletrônicos,4,1730,C027
+1359,2023-03-23,Tênis Esportivo,Vestuário,5,362,C013
+1360,2023-09-12,Romance Clássico,Livros,4,252,C020
+1361,2023-04-21,Smartphone X,Eletrônicos,4,1016,C016
+1362,2023-11-02,Shampoo Antiqueda,Cosméticos,1,30,C032
+1363,2023-08-09,Ficção Científica,Livros,5,9,C007
+1364,2023-01-24,Tênis Esportivo,Vestuário,3,383,C024
+1365,2023-10-11,Aprendendo Python,Livros,5,283,C024
+1366,2023-10-09,Chocolate Premium,Alimentos,4,255,C049
+1367,2023-07-21,Vinho Tinto,Alimentos,5,64,C007
+1368,2023-03-15,Azeite Extra Virgem,Alimentos,5,470,C049
+1369,2023-01-24,Vestido Elegante,Vestuário,5,204,C003
+1370,2023-08-22,Notebook Pro,Eletrônicos,3,1610,C034
+1371,2023-06-13,Vestido Elegante,Vestuário,5,74,C040
+1372,2023-10-31,Jaqueta,Vestuário,5,371,C020
+1373,2023-10-16,Vinho Tinto,Alimentos,5,269,C046
+1374,2023-02-26,Queijo Artesanal,Alimentos,1,187,C044
+1375,2023-12-19,Romance Clássico,Livros,3,399,C047
+1376,2023-10-24,Mouse Gamer,Eletrônicos,4,538,C042
+1377,2023-09-26,Creme Facial,Cosméticos,1,294,C011
+1378,2023-01-17,Batom Matte,Cosméticos,2,412,C016
+1379,2023-06-10,Desodorante,Cosméticos,1,99,C029
+1380,2023-09-14,Data Science Essentials,Livros,4,347,C027
+1381,2023-04-17,Batom Matte,Cosméticos,1,354,C034
+1382,2023-03-30,Shampoo Antiqueda,Cosméticos,4,265,C021
+1383,2023-12-15,Romance Clássico,Livros,3,275,C044
+1384,2023-05-23,Vinho Tinto,Alimentos,4,100,C016
+1385,2023-05-28,Shampoo Antiqueda,Cosméticos,2,471,C020
+1386,2023-10-14,Meia Esportiva,Vestuário,4,162,C023
+1387,2023-07-14,Azeite Extra Virgem,Alimentos,1,289,C035
+1388,2023-02-10,Ficção Científica,Livros,2,149,C019
+1389,2023-04-14,Queijo Artesanal,Alimentos,3,375,C014
+1390,2023-02-25,Shampoo Antiqueda,Cosméticos,5,350,C009
+1391,2023-12-09,Desodorante,Cosméticos,5,123,C004
+1392,2023-06-19,Creme Facial,Cosméticos,2,31,C027
+1393,2023-03-22,Aprendendo Python,Livros,2,8,C036
+1394,2023-05-28,Autoajuda,Livros,4,241,C013
+1395,2023-11-30,Azeite Extra Virgem,Alimentos,1,454,C006
+1396,2023-03-31,Creme Facial,Cosméticos,5,371,C003
+1397,2023-09-11,Data Science Essentials,Livros,1,499,C026
+1398,2023-06-02,Meia Esportiva,Vestuário,3,439,C001
+1399,2023-05-26,Protetor Solar,Cosméticos,1,465,C022
+1400,2023-09-16,Autoajuda,Livros,5,265,C009
+1401,2023-03-25,Ficção Científica,Livros,2,405,C022
+1402,2023-06-22,Autoajuda,Livros,3,361,C001
+1403,2023-07-27,Vinho Tinto,Alimentos,2,92,C041
+1404,2023-02-18,Romance Clássico,Livros,3,48,C043
+1405,2023-01-04,Calça Jeans,Vestuário,4,165,C016
+1406,2023-06-18,Queijo Artesanal,Alimentos,2,226,C018
+1407,2023-07-04,Vinho Tinto,Alimentos,5,11,C042
+1408,2023-07-27,Camiseta Básica,Vestuário,1,235,C011
+1409,2023-06-01,Desodorante,Cosméticos,3,347,C041
+1410,2023-09-02,Vinho Tinto,Alimentos,2,113,C009
+1411,2023-10-09,Jaqueta,Vestuário,5,190,C045
+1412,2023-11-02,Romance Clássico,Livros,2,382,C044
+1413,2023-02-09,Mouse Gamer,Eletrônicos,4,1061,C024
+1414,2023-04-14,Perfume Importado,Cosméticos,1,415,C033
+1415,2023-08-15,Protetor Solar,Cosméticos,2,86,C034
+1416,2023-02-16,Smartwatch,Eletrônicos,2,1437,C032
+1417,2023-08-01,Batom Matte,Cosméticos,1,229,C033
+1418,2023-06-07,Romance Clássico,Livros,1,282,C044
+1419,2023-04-22,Tablet Lite,Eletrônicos,3,1635,C048
+1420,2023-02-02,Perfume Importado,Cosméticos,1,215,C045
+1421,2023-01-17,Perfume Importado,Cosméticos,1,493,C031
+1422,2023-11-25,Queijo Artesanal,Alimentos,2,386,C050
+1423,2023-07-12,Ficção Científica,Livros,4,227,C025
+1424,2023-03-02,Smartwatch,Eletrônicos,5,275,C023
+1425,2023-04-25,Vestido Elegante,Vestuário,4,267,C047
+1426,2023-10-06,Smartphone X,Eletrônicos,3,931,C047
+1427,2023-08-24,Romance Clássico,Livros,4,413,C016
+1428,2023-02-27,Café Especial,Alimentos,3,98,C047
+1429,2023-05-04,Smartwatch,Eletrônicos,4,1234,C002
+1430,2023-11-03,Camiseta Básica,Vestuário,1,299,C029
+1431,2023-10-04,Notebook Pro,Eletrônicos,1,811,C015
+1432,2023-04-30,Camiseta Básica,Vestuário,2,254,C019
+1433,2023-06-14,Shampoo Antiqueda,Cosméticos,5,301,C044
+1434,2023-04-24,Tênis Esportivo,Vestuário,2,493,C034
+1435,2023-03-31,Ficção Científica,Livros,3,35,C038
+1436,2023-11-26,Romance Clássico,Livros,4,28,C023
+1437,2023-03-18,Romance Clássico,Livros,3,350,C027
+1438,2023-05-04,Queijo Artesanal,Alimentos,2,378,C031
+1439,2023-10-15,Tênis Esportivo,Vestuário,2,404,C004
+1440,2023-05-05,Biografia,Livros,5,267,C025
+1441,2023-07-09,Café Especial,Alimentos,3,325,C029
+1442,2023-12-11,Mouse Gamer,Eletrônicos,2,113,C025
+1443,2023-10-28,Protetor Solar,Cosméticos,1,437,C013
+1444,2023-06-05,Creme Facial,Cosméticos,4,108,C022
+1445,2023-09-03,Notebook Pro,Eletrônicos,2,1925,C008
+1446,2023-05-03,Meia Esportiva,Vestuário,5,353,C026
+1447,2023-11-29,Shampoo Antiqueda,Cosméticos,3,193,C035
+1448,2023-08-27,Azeite Extra Virgem,Alimentos,3,183,C032
+1449,2023-04-15,Smartwatch,Eletrônicos,4,1526,C021
+1450,2023-03-16,Azeite Extra Virgem,Alimentos,4,28,C015
+1451,2023-08-02,Fone Bluetooth,Eletrônicos,5,1870,C038
+1452,2023-10-19,Café Especial,Alimentos,2,168,C025
+1453,2023-06-22,Jaqueta,Vestuário,5,329,C044
+1454,2023-06-30,Queijo Artesanal,Alimentos,4,233,C047
+1455,2023-11-25,Calça Jeans,Vestuário,5,247,C035
+1456,2023-12-09,Mouse Gamer,Eletrônicos,1,1680,C005
+1457,2023-04-29,Smartphone X,Eletrônicos,4,284,C041
+1458,2023-08-22,Smartwatch,Eletrônicos,2,28,C033
+1459,2023-09-05,Chocolate Premium,Alimentos,5,321,C040
+1460,2023-01-07,Aprendendo Python,Livros,1,268,C027
+1461,2023-01-09,Mouse Gamer,Eletrônicos,3,1076,C019
+1462,2023-02-24,Desodorante,Cosméticos,4,404,C012
+1463,2023-09-27,Mouse Gamer,Eletrônicos,2,490,C040
+1464,2023-07-11,Azeite Extra Virgem,Alimentos,3,398,C006
+1465,2023-04-26,Biografia,Livros,5,125,C045
+1466,2023-01-17,Mel Orgânico,Alimentos,1,329,C042
+1467,2023-01-29,Tablet Lite,Eletrônicos,4,761,C031
+1468,2023-11-27,Smartwatch,Eletrônicos,2,175,C028
+1469,2023-04-28,Vinho Tinto,Alimentos,1,448,C003
+1470,2023-02-08,Meia Esportiva,Vestuário,5,240,C003
+1471,2023-06-11,Vinho Tinto,Alimentos,5,331,C012
+1472,2023-07-23,Notebook Pro,Eletrônicos,5,297,C046
+1473,2023-07-19,Fone Bluetooth,Eletrônicos,2,1132,C037
+1474,2023-12-19,Shampoo Antiqueda,Cosméticos,4,379,C009
+1475,2023-04-29,Mouse Gamer,Eletrônicos,3,117,C028
+1476,2023-07-23,Fone Bluetooth,Eletrônicos,5,1540,C039
+1477,2023-09-09,Chocolate Premium,Alimentos,3,393,C029
+1478,2023-04-06,Tênis Esportivo,Vestuário,5,471,C028
+1479,2023-06-01,Desodorante,Cosméticos,4,47,C040
+1480,2023-07-14,Meia Esportiva,Vestuário,1,46,C010
+1481,2023-02-16,Meia Esportiva,Vestuário,4,162,C007
+1482,2023-02-22,Fone Bluetooth,Eletrônicos,4,726,C018
+1483,2023-10-12,Camiseta Básica,Vestuário,2,218,C036
+1484,2023-10-11,Batom Matte,Cosméticos,1,18,C023
+1485,2023-01-07,Mouse Gamer,Eletrônicos,5,1571,C025
+1486,2023-10-14,Queijo Artesanal,Alimentos,4,391,C047
+1487,2023-03-28,Vestido Elegante,Vestuário,5,89,C025
+1488,2023-02-02,Tênis Esportivo,Vestuário,3,138,C010
+1489,2023-02-09,Jaqueta,Vestuário,3,213,C031
+1490,2023-11-01,Azeite Extra Virgem,Alimentos,2,362,C032
+1491,2023-01-04,Creme Facial,Cosméticos,4,58,C020
+1492,2023-08-14,Ficção Científica,Livros,5,193,C022
+1493,2023-11-05,Queijo Artesanal,Alimentos,5,72,C021
+1494,2023-06-13,Jaqueta,Vestuário,3,93,C026
+1495,2023-06-16,Mel Orgânico,Alimentos,4,484,C016
+1496,2023-04-13,Ficção Científica,Livros,4,186,C037
+1497,2023-01-14,Protetor Solar,Cosméticos,2,342,C036
+1498,2023-12-21,Autoajuda,Livros,2,222,C019
+1499,2023-05-04,Tablet Lite,Eletrônicos,4,287,C020
+1500,2023-02-07,Mel Orgânico,Alimentos,2,359,C025
+1501,2023-09-17,Romance Clássico,Livros,4,293,C035
+1502,2023-12-26,Romance Clássico,Livros,1,396,C024
+1503,2023-12-03,Protetor Solar,Cosméticos,1,59,C016
+1504,2023-12-13,Café Especial,Alimentos,5,27,C042
+1505,2023-05-13,Ficção Científica,Livros,4,57,C007
+1506,2023-10-22,Vestido Elegante,Vestuário,5,281,C045
+1507,2023-12-14,Jaqueta,Vestuário,3,199,C050
+1508,2023-09-05,Desodorante,Cosméticos,5,80,C002
+1509,2023-03-01,Fone Bluetooth,Eletrônicos,4,1842,C006
+1510,2023-09-24,Tênis Esportivo,Vestuário,3,175,C014
+1511,2023-12-23,Ficção Científica,Livros,4,53,C047
+1512,2023-02-28,Ficção Científica,Livros,1,154,C046
+1513,2023-05-05,Fone Bluetooth,Eletrônicos,1,1358,C011
+1514,2023-08-07,Creme Facial,Cosméticos,5,84,C036
+1515,2023-11-24,Data Science Essentials,Livros,4,317,C012
+1516,2023-08-19,Biografia,Livros,1,370,C013
+1517,2023-04-16,Batom Matte,Cosméticos,4,7,C014
+1518,2023-04-06,Mel Orgânico,Alimentos,1,291,C035
+1519,2023-12-10,Azeite Extra Virgem,Alimentos,2,231,C017
+1520,2023-07-20,Romance Clássico,Livros,3,300,C040
+1521,2023-11-13,Perfume Importado,Cosméticos,3,179,C030
+1522,2023-02-13,Meia Esportiva,Vestuário,3,460,C038
+1523,2023-04-04,Tênis Esportivo,Vestuário,1,123,C008
+1524,2023-11-02,Mel Orgânico,Alimentos,2,258,C027
+1525,2023-11-22,Vestido Elegante,Vestuário,4,214,C032
+1526,2023-05-28,Desodorante,Cosméticos,2,280,C032
+1527,2023-01-28,Calça Jeans,Vestuário,3,422,C040
+1528,2023-10-15,Chocolate Premium,Alimentos,4,73,C025
+1529,2023-08-01,Desodorante,Cosméticos,4,208,C032
+1530,2023-04-23,Biografia,Livros,2,46,C002
+1531,2023-03-28,Chocolate Premium,Alimentos,3,116,C019
+1532,2023-10-21,Romance Clássico,Livros,4,277,C008
+1533,2023-10-05,Fone Bluetooth,Eletrônicos,5,1648,C024
+1534,2023-02-22,Smartwatch,Eletrônicos,4,1097,C028
+1535,2023-02-14,Tênis Esportivo,Vestuário,1,228,C023
+1536,2023-10-29,Aprendendo Python,Livros,2,109,C048
+1537,2023-11-12,Mel Orgânico,Alimentos,5,318,C011
+1538,2023-06-29,Calça Jeans,Vestuário,2,404,C037
+1539,2023-12-27,Shampoo Antiqueda,Cosméticos,5,272,C021
+1540,2023-12-14,Azeite Extra Virgem,Alimentos,5,137,C033
+1541,2023-12-02,Notebook Pro,Eletrônicos,4,1838,C018
+1542,2023-06-14,Meia Esportiva,Vestuário,2,129,C046
+1543,2023-11-20,Meia Esportiva,Vestuário,4,247,C037
+1544,2023-11-21,Mel Orgânico,Alimentos,4,191,C005
+1545,2023-07-08,Tablet Lite,Eletrônicos,5,1502,C045
+1546,2023-02-17,Biografia,Livros,3,293,C050
+1547,2023-07-23,Autoajuda,Livros,3,426,C035
+1548,2023-05-26,Jaqueta,Vestuário,2,250,C021
+1549,2023-06-25,Vinho Tinto,Alimentos,5,70,C032
+1550,2023-01-09,Smartphone X,Eletrônicos,1,1256,C030
+1551,2023-04-14,Notebook Pro,Eletrônicos,4,918,C028
+1552,2023-02-17,Meia Esportiva,Vestuário,3,84,C018
+1553,2023-03-26,Azeite Extra Virgem,Alimentos,1,189,C042
+1554,2023-04-30,Tablet Lite,Eletrônicos,3,1455,C049
+1555,2023-04-20,Autoajuda,Livros,1,353,C001
+1556,2023-12-15,Aprendendo Python,Livros,2,299,C034
+1557,2023-08-05,Aprendendo Python,Livros,1,349,C008
+1558,2023-02-22,Jaqueta,Vestuário,1,118,C006
+1559,2023-07-15,Fone Bluetooth,Eletrônicos,3,1763,C009
+1560,2023-01-05,Meia Esportiva,Vestuário,2,39,C037
+1561,2023-04-20,Desodorante,Cosméticos,2,223,C047
+1562,2023-02-14,Jaqueta,Vestuário,5,345,C014
+1563,2023-06-29,Notebook Pro,Eletrônicos,1,1183,C025
+1564,2023-02-13,Ficção Científica,Livros,2,128,C042
+1565,2023-05-26,Vestido Elegante,Vestuário,5,302,C039
+1566,2023-09-18,Smartwatch,Eletrônicos,3,419,C039
+1567,2023-05-03,Meia Esportiva,Vestuário,4,151,C004
+1568,2023-11-01,Biografia,Livros,1,124,C041
+1569,2023-03-09,Mouse Gamer,Eletrônicos,1,1974,C021
+1570,2023-03-30,Romance Clássico,Livros,4,186,C044
+1571,2023-05-15,Aprendendo Python,Livros,1,296,C001
+1572,2023-09-17,Camiseta Básica,Vestuário,1,475,C026
+1573,2023-12-26,Mel Orgânico,Alimentos,5,385,C028
+1574,2023-05-23,Aprendendo Python,Livros,5,271,C010
+1575,2023-03-21,Fone Bluetooth,Eletrônicos,1,1027,C014
+1576,2023-11-29,Shampoo Antiqueda,Cosméticos,4,295,C049
+1577,2023-01-30,Fone Bluetooth,Eletrônicos,4,1463,C016
+1578,2023-11-08,Camiseta Básica,Vestuário,4,62,C040
+1579,2023-03-12,Fone Bluetooth,Eletrônicos,2,248,C046
+1580,2023-09-22,Notebook Pro,Eletrônicos,4,1907,C034
+1581,2023-05-18,Café Especial,Alimentos,3,68,C050
+1582,2023-09-26,Smartphone X,Eletrônicos,3,1616,C018
+1583,2023-08-22,Fone Bluetooth,Eletrônicos,5,1259,C032
+1584,2023-03-27,Shampoo Antiqueda,Cosméticos,1,252,C037
+1585,2023-12-12,Café Especial,Alimentos,3,388,C037
+1586,2023-05-06,Notebook Pro,Eletrônicos,5,15,C001
+1587,2023-04-02,Tablet Lite,Eletrônicos,3,772,C010
+1588,2023-08-02,Mouse Gamer,Eletrônicos,4,457,C016
+1589,2023-09-15,Azeite Extra Virgem,Alimentos,1,288,C008
+1590,2023-07-25,Notebook Pro,Eletrônicos,2,1611,C003
+1591,2023-06-17,Tablet Lite,Eletrônicos,3,1549,C020
+1592,2023-05-30,Mouse Gamer,Eletrônicos,4,26,C013
+1593,2023-10-30,Shampoo Antiqueda,Cosméticos,5,125,C024
+1594,2023-03-19,Data Science Essentials,Livros,5,381,C016
+1595,2023-11-22,Tablet Lite,Eletrônicos,1,474,C023
+1596,2023-06-07,Fone Bluetooth,Eletrônicos,1,1520,C025
+1597,2023-09-09,Notebook Pro,Eletrônicos,5,1966,C027
+1598,2023-09-24,Notebook Pro,Eletrônicos,3,195,C015
+1599,2023-02-13,Autoajuda,Livros,3,232,C048
+1600,2023-02-08,Perfume Importado,Cosméticos,5,71,C026
