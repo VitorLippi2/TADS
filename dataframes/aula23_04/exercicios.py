@@ -15,3 +15,7 @@ print(df.info())
 
 # valores diferentes em Gender
 print(df["Gender"].nunique())
+
+# definindo valor "N/I" para não informado
+df["Gender"] = df["Gender"].fillna("N/I")
+print(df["Gender"])
