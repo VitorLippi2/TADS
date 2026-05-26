@@ -48,8 +48,45 @@ app.layout = dbc.Container([
 ])
 
 @app.callback(
-    Output('bar-graph-matplotlib',  'src'),
+    Output('bar-graph-matplotlib', 'src'),
     Output('bar-graph-plotly', 'figure'),
     Output('grid', 'defaultColDef'),
     Input('category', 'value')
 )
+
+def plot_data(selected_yaxis):
+    # 1. Matplotlib (Corrigido: plt.subplots() e nomes de variáveis)
+    fig, ax = plt.subplots(figsize=(14, 5))
+    ax.bar(df["State"], df[selected_yaxis])
+    ax.set_ylabel(selected_yaxis)
+    plt.xticks(rotation=30)
+
+    buf = BytesIO()
+    fig.savefig(buf, format="png", bbox_inches='tight')
+    plt.close(fig) # Importante para liberar memória
+    
+    fig_data = base64.b64encode(buf.getbuffer()).decode("ascii")
+    bar_graph_matplotlib = f"data:image/png;base64,{fig_data}"
+
+    # 2. Plotly (Corrigido nome da variável)
+    fig_bar_plotly = px.bar(df, x="State", y=selected_yaxis)
+    fig_bar_plotly.update_xaxes(tickangle=330)
+
+    # 3. AG Grid cellStyle (Corrigido 'backgroundColod' para 'backgroundColor')
+    my_cellStyle = {
+        "styleConditions": [
+            {
+                "condition": f"params.colDef.field == '{selected_yaxis}'",
+                "style": {"backgroundColor": "#d3d3d3"}
+            },
+            {
+                "condition": f"params.colDef.field != '{selected_yaxis}'",
+                "style": {"backgroundColor": "black"}
+            }
+        ]
+    }
+
+    return bar_graph_matplotlib, fig_bar_plotly, {"cellStyle": my_cellStyle}
+
+if __name__ == "__main__":
+    app.run(debug=False, port=8002)
